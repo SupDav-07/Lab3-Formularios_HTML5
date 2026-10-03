@@ -1,0 +1,9 @@
+# Evita que cualquiera pueda listar el contenido de esta carpeta
+# escribiendo la URL directamente en el navegador (ej: /uploaded_files/)
+Options -Indexes
+
+# Evita que un archivo malicioso subido con extensión de script
+# pueda ser ejecutado por el servidor
+<FilesMatch "\.(php|phtml|php3|php4|php5|pl|py|cgi|sh)$">
+    Require all denied
+</FilesMatch>
