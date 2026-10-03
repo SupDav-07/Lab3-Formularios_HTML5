@@ -1,6 +1,6 @@
 # Laboratorio # 3: Registro de Aspirantes
 
-📅 Fecha: [DD/MM/AAAA]
+📅 Fecha: [10/02/2026]
 
 ## 📄 Contenido del Repositorio
 
@@ -49,7 +49,7 @@ TallerAspirantes/
 │   └── .gitkeep               # Mantiene la carpeta vacía en el repositorio
 ├── index.php                    # Formulario visual de registro
 ├── procesar.php                   # Backend: valida, procesa y guarda el registro
-└── README.md                        # Documentación del proyecto
+
 ```
 
 ## ▶️ Instrucciones de Ejecución / Uso
@@ -73,7 +73,7 @@ TallerAspirantes/
 
 - **Nombre:** René
 - **Institución:** Universidad Tecnológica de Panamá (UTP) - Facultad de Ingeniería en Sistemas, Campus Víctor Levy Sasso
-- **Fecha de Realización:** [DD/MM/AAAA]
+- **Fecha de Realización:** [10/02/2026]
 
 ## 🔗 Referencias
 
